@@ -1,0 +1,130 @@
+{
+    "type": "carosuel",
+    "altText": "市立圖書館資訊",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "micro",
+            "hero": {
+                "type": "image",
+                "url": "https://hylib.typl.gov.tw/images//defaultBook_l01_book.gif",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "小王子（胡晴舫專文導讀 2015文學強譯本）",
+                        "weight": "bold",
+                        "size": "sm",
+                        "wrap": true
+                    }
+                ],
+                "spacing": "sm",
+                "paddingAll": "13px"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "網頁連結",
+                            "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2252397&Lflag=1"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "hero": {
+                "type": "image",
+                "url": "https://www.books.com.tw/img/001/085/15/0010851523.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "小王子",
+                        "weight": "bold",
+                        "size": "sm",
+                        "wrap": true
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "作者：Antoine de Saint-Exupéry著 ; 蔡雅菁譯 ; 呂芊虹, 陳家希繪",
+                                "size": "xs",
+                                "color": "#8c8c8c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ISBN：9789578019041 (平裝) ",
+                                "size": "xs",
+                                "color": "#8c8c8c"
+                            }
+                        ]
+                    }
+                ],
+                "spacing": "sm",
+                "paddingAll": "13px"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "網頁連結",
+                            "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2273990&Lflag=1"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "bubble",
+            "size": "micro",
+            "hero": {
+                "type": "image",
+                "url": "https://cdn.kingstone.com.tw/book/images/product/20187/2018700150145/2018700150145b.jpg",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "320:213"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "爸媽給孩子的哲學小王子",
+                        "weight": "bold",
+                        "size": "sm",
+                        "wrap": true
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "作者：安東尼.聖修伯里(Antoine de Saint-Exupery)原作 ; 艾曼紐凱西樂伯(Adaptation dEmmanuelle Kecir-Lepetit)文字改寫 ; 周志誠譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789862437377 (精裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2273951&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://www.books.com.tw/img/001/085/06/0010850627.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "數學小王子出任務 : 小學生最愛的闖關遊戲, 過關就學會了", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：樂多多著", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789863844174 (平裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2274588&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://www.books.com.tw/img/001/083/60/0010836031.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "小王子", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：安托萬.德.聖-埃克蘇佩里著 ; 樹才譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789571379708 (精裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2261719&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://cdnec.sanmin.com.tw/product_images/986/986189906.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "小王子", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：聖修伯里文 ; 王科圖 ; 吳淡如譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789861899060 (平裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2235259&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://www.books.com.tw/img/001/082/61/0010826191.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "小王子 : 附:夜間飛行", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：安東尼.聖修伯里(Antoine de Saint-Exupéry)著 ; 呂佩謙譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789861784953 (平裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2279563&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://www.books.com.tw/img/001/082/51/0010825105.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "小王子 = The little prince", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：Antoine de Saint-Exupery原著 ; 劉心怡翻譯/編輯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789863188094 (平裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2245922&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://www.books.com.tw/img/001/083/29/0010832928.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "小王子 = The little prince", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：安東尼.德.聖修伯里著 ; 吳淡如譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789869724081 (精裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2257269&Lflag=1"}}]}}, {"type": "bubble", "size": "micro", "hero": {"type": "image", "url": "https://cdnec.sanmin.com.tw/product_images/986/986427299.jpg", "size": "full", "aspectMode": "cover", "aspectRatio": "320:213"}, "body": {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "星球上的小王子", "weight": "bold", "size": "sm", "wrap": true}, {"type": "box", "layout": "vertical", "contents": [{"type": "text", "text": "作者：愛涅絲.德.雷斯塔文 ; 瓦樂麗.多坎波圖 ; 鄭欣昀譯", "size": "xs", "color": "#8c8c8c"}, {"type": "text", "text": "ISBN：9789864272990 (精裝) ", "size": "xs", "color": "#8c8c8c"}]}], "spacing": "sm", "paddingAll": "13px"}, "footer": {"type": "box", "layout": "vertical", "contents": [{"type": "button", "action": {"type": "uri", "label": "網頁連結", "uri": "https://hylib.typl.gov.tw/bookDetail.do?id=2235049&Lflag=1"}}]}}]}
